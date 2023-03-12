@@ -20,7 +20,7 @@ An imaginary e-commerce service built with react-typescript , Fake Store API, an
 
 Key Features:
 
-- Display filtered Product ID items 
+- Display filtered Product items 
 - Add cart items to Cart
 - Remove cart items to Cart
 - Update price and quantity to reflect changes accordingly
